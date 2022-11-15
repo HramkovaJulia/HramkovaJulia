@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://i.gifer.com/Klq.gif" width="250"/>
 </div>
-<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Юлия</a> 
+<h1 align="center">Привет, меня зовут Юлия 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Я IOS разработчик из Казахстана 🇰🇿
 </h3>
