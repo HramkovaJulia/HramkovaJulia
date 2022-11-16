@@ -31,9 +31,8 @@
     </li>
 </ol>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HramkovaJulia&theme=dracula&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)]
-<picture>
-<source 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HramkovaJulia&theme=dracula&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)
+<picture> <source 
   srcset="https://github-readme-stats.vercel.app/api?username=HramkovaJulia&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
